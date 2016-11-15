@@ -34,4 +34,6 @@ Feel free to make any edits or changes! Just [fork](https://help.github.com/arti
 ### Mobile Tools
 | Name | Link to Google Play | Link to Apple App Store |
 |---|---|---|
+|Signal|[Google Play](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms)|[App Store](https://itunes.apple.com/us/app/signal-private-messenger/id874139669?mt=8)|
+
 
