@@ -21,7 +21,22 @@ Feel free to make any edits or changes! Just [fork](https://help.github.com/arti
 ## Cleaning Up After Yourself
 * [Facebook Linked Apps](https://www.facebook.com/settings?tab=applications)
 * [Facebook Advertiser Preferences](https://www.facebook.com/ads/preferences/)
+* [Google Activity](https://myactivity.google.com/myactivity)
+  * [Google Location History](https://www.google.com/locationhistory)
+  * ["More Activity"](https://myactivity.google.com/more-activity)
+  * [Google Services used](https://myaccount.google.com/dashboard)
+  * [Export your data](https://takeout.google.com/settings/takeout)
 * The Labyrinth of [Google Settings](https://myaccount.google.com)
+  * [Login settings](https://myaccount.google.com/security#signin)
+  * [Authenticated devices and locations](https://myaccount.google.com/security#activity)
+  * [Authorized apps](https://myaccount.google.com/security#connectedapps)
+  * [Personal info](https://myaccount.google.com/privacy#personalinfo)
+  * [Change what Google activities they track](https://myaccount.google.com/activitycontrols)
+  * **[Change Google advertising preferences](https://www.google.com/settings/ads)**
+    * **Make sure you check out the "anonymous" advertisement settings also!!!111one**
+  * [Google Search settings](https://www.google.com/preferences)
+  
+  
 
 ## Tools recommended
 ### Browser extensions
