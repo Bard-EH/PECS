@@ -13,6 +13,11 @@ Feel free to make any edits or changes! Just [fork](https://help.github.com/arti
 * ["This World Of Ours"](https://scholar.harvard.edu/files/mickens/files/thisworldofours.pdf) -- "Mossad/Not Mossad"
 * ["The Process of Security"](https://www.schneier.com/essays/archives/2000/04/the_process_of_secur.html) -- Bruce Schneier
 
+## Other Useful Bits (hahaha get it because it's the internet)
+* [A story about how Tor doesn't protect you from being stupid](http://www.dailydot.com/crime/tor-harvard-bomb-suspect/)
+* ["Multi-factor authentication for busy people"](https://phiffer.org/writing/multi-factor-authentication-for-busy-people/)
+* 
+
 ## Cleaning Up After Yourself
 * [Facebook Linked Apps](https://www.facebook.com/settings?tab=applications)
 * [Facebook Advertiser Preferences](https://www.facebook.com/ads/preferences/)
