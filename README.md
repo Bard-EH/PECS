@@ -76,3 +76,7 @@ Overall, VPNs are not worth the trouble. If you're sure you want one, set one up
 
 ### Tor
 Keeps things anonymous. People in between know you're using Tor. Slow. Use something like Tor Browser Bundle. Or Tails, depending on how secret you want to keep things.
+
+## Bad tools that for some reason are popular
+Telegram. [Here's a list of reasons why](http://www.theregister.co.uk/2015/11/23/homebrew_crypto_in_telegram_app/)
+
