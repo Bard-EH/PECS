@@ -55,6 +55,7 @@ Feel free to make any edits or changes! Just [fork](https://help.github.com/arti
 ### PGP and GPG
 PGP (for "Pretty Good Privacy") is a system for public-key cryptography. The most commonly-used implementation of PGP is the free and open-source [GPG](https://www.gnupg.org/) (for "GNU Privacy Guard", do you see what they did there?). 
 Public-key crypto, also known as asymetric-key cryptography, allows sending email and other communication with a very high level of privacy, as well as authentication -- that is, if you publish a public key, people can send you messages securely, and they can make sure any messages they receive from you actually came from you.
+
 Unfortunately, GPG is not at all easy to use and manage. GPG is not so much the swiss-army knife of public-key cryptography as it is the chainsaw. It's big, it's ugly, it's confusing and complicated, and it can really ruin your day if you use it wrong. A good overview of the problems with PGP from the main developer of Signal is [here](https://moxie.org/blog/gpg-and-me/).
 
 This is not to discourage its use -- I (Ryan) use it every day. If you think you need this level of security, you need to really read up and learn this tool in depth before you even think about relying on it for sensitive information. If you're sure you want to start down this road, the Riseup collective has published a [comprehensive guide](https://riseup.net/en/security/message-security/openpgp/best-practices) to GPG best practices.
