@@ -58,4 +58,18 @@ Public-key crypto, also known as asymetric-key cryptography, allows sending emai
 
 Unfortunately, GPG is not at all easy to use and manage. GPG is not so much the swiss-army knife of public-key cryptography as it is the chainsaw. It's big, it's ugly, it's confusing and complicated, and it can really ruin your day if you use it wrong. A good overview of the problems with PGP from the main developer of Signal is [here](https://moxie.org/blog/gpg-and-me/).
 
-This is not to discourage its use -- I (Ryan) use it every day. If you think you need this level of security, you need to really read up and learn this tool in depth before you even think about relying on it for sensitive information. If you're sure you want to start down this road, the Riseup collective has published a [comprehensive guide](https://riseup.net/en/security/message-security/openpgp/best-practices) to GPG best practices.
+This is not to discourage its use in the right situations -- I (Ryan) use it every day to secure my passwords and authorize code commits. If you think you need this level of security, you **need** to really read up and learn this tool in depth before you even think about relying on it for sensitive information. If you're sure you want to start down this road, the Riseup collective has published a [comprehensive guide](https://riseup.net/en/security/message-security/openpgp/best-practices) to GPG best practices.
+
+### VPNs
+There's a lot of well-meant but bad advice floating about recommending VPNs as a surefire way to circumvent surveillance and secure your internet. On the modern Internet, where companies and intelligence organizations have eyes everywhere, VPNs have very limited and specific uses. For most people, they're only really useful for these scenarios: 
+
+1. to punch through restrictive firewalls or filters, such as China's Great Firewall
+2. to secure internet traffic traversing hostile, open, public networks, such as any coffee shop networks...or BardWireless...
+3. to access secure resources on a private network remotely. (Some schools use this method to enable off-campus access to library resources, for example.)
+
+A VPN on its own will not prevent Facebook from tracking you. A VPN on its own will not prevent the NSA from reading your emails.
+A VPN on its own will not prevent the MPAA from catching your torrenting.
+
+Furthermore, many VPN services are essentially scams. It's very easy to promise increased security, especially given the stature of VPNs in the public mind -- but it's basically impossible to validate without auditing. (Just because they **say** they don't keep logs, doesn't mean they **don't** keep logs.)
+
+Overall, VPNs are not worth the trouble. If you're sure you want one, set one up on a remote server yourself. If you can't do that...maybe don't use a VPN?
