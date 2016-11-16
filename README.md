@@ -76,7 +76,7 @@ A VPN on its own will not prevent the MPAA from catching your torrenting. It may
 
 Furthermore, many VPN services are essentially scams. It's very easy to promise increased security, especially given the stature of VPNs in the public mind -- but it's basically impossible to validate without auditing. (Just because they **say** they don't track you...)
 
-Overall, VPNs are not worth the trouble. If you're sure you want one, use one set up by some trusted party, such as your school, or work, or a friend, or yourself.
+Overall, VPNs are not worth the trouble for general usage. If you're sure you need one, use one set up by some trusted party, such as your school, or work, or a friend, or yourself.
 
 ### Tor
 [Tor](https://www.torproject.org/) is sort of like a VPN, in that it reroutes your internet traffic before it gets to the server you're trying to access. Unlike a VPN, Tor can assist in keeping your traffic from being tied to your identity. It does this by routing your traffic through several "nodes" -- that form a sort of overlay network over the internet -- between you and your destination.
