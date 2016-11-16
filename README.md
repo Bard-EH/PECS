@@ -79,7 +79,9 @@ Overall, VPNs are not worth the trouble. If you're sure you want one, set one up
 ### Tor
 [Tor](https://www.torproject.org/) is sort of like a VPN, in that it reroutes your internet traffic before it gets to the server you're trying to access. Unlike a VPN, Tor can assist in keeping your traffic from being tied to your identity. It does this by routing your traffic through several "nodes" -- that form a sort of overlay network over the internet -- between you and your destination.
 
-Being truly anonymous and avoinding tracking with Tor requires some pretty substantial changes to the way you use the web. There's no point in logging in to your normal Google account with Tor, if that's who you're trying to hide from. JavaScript trackers can still track you. Additionally, there have been several successful direct attacks against the Tor network. This shouldn't be a problem if you keep your usage to what's required -- but be careful if you're relying on Tor for your day-to-day internet needs.
+Being truly anonymous and avoinding tracking with Tor requires some pretty substantial changes to the way you use the web (which is  why I did not cover it in the presentation). There's no point in logging in to your normal Google account with Tor, if that's who you're trying to hide from. JavaScript trackers can still track you. Additionally, there have been several successful direct attacks against the Tor network. This shouldn't be a problem if you keep your usage to what's required -- but be careful if you're relying on Tor for your day-to-day internet needs.
+
+[Here](https://www.eff.org/pages/tor-and-https) is a useful interactive graphic from the EFF explaining which pieces of identifying information Tor and HTTPS hide from the various people in between you and the server you're trying to access. Click on the buttons to see what turning Tor and/or HTTPS do to your traffic.
 
 Tor makes browsing SLOW. Like, many seconds to load a simple page. This is because it's bouncing your traffic all around the world. Just something to be aware of.
 
