@@ -5,10 +5,12 @@ Notes and resources from the Practical Everyday Counter-surveillance workshop.
 
 Feel free to make any edits or changes! Just [fork](https://help.github.com/articles/fork-a-repo/) this repository, make your changes, then [send a pull request](https://help.github.com/articles/about-pull-requests/).
 
+## Resources in this repository
+* Presentation: [PDF](#) or [ODP](#) 
+* [Livestream](https://www.youtube.com/watch?v=5_ayTCZnYjs)
 
 ## Articles & Essays mentioned or quoted
 
-* ["Passing the Baton"](https://www.jacobinmag.com/2016/11/donald-trump-barack-obama-surveillance-national-security-drones-foreign-policy/) -- Branko Marcetic (such a cool name)
 * [EFF's Surveillance Self-Defense Guides](https://ssd.eff.org/) -- Threat modeling and other useful, in-depth guides
 * ["This World Of Ours"](https://scholar.harvard.edu/files/mickens/files/thisworldofours.pdf) -- "Mossad/Not Mossad"
 * ["The Process of Security"](https://www.schneier.com/essays/archives/2000/04/the_process_of_secur.html) -- Bruce Schneier
@@ -16,7 +18,7 @@ Feel free to make any edits or changes! Just [fork](https://help.github.com/arti
 ## Other Useful Bits (hahaha get it because it's the internet)
 * [A story about how Tor doesn't protect you from being stupid](http://www.dailydot.com/crime/tor-harvard-bomb-suspect/)
 * ["Multi-factor authentication for busy people"](https://phiffer.org/writing/multi-factor-authentication-for-busy-people/)
-* 
+* ["Passing the Baton"](https://www.jacobinmag.com/2016/11/donald-trump-barack-obama-surveillance-national-security-drones-foreign-policy/) -- Branko Marcetic (such a cool name) gives a left-wing perspective on the history, development, and powers of the surveillance/national security state
 
 ## Cleaning Up After Yourself
 * [Facebook Linked Apps](https://www.facebook.com/settings?tab=applications)
@@ -75,7 +77,13 @@ Furthermore, many VPN services are essentially scams. It's very easy to promise 
 Overall, VPNs are not worth the trouble. If you're sure you want one, set one up on a remote server yourself. If you can't do that...maybe don't use a VPN.
 
 ### Tor
-Keeps things anonymous. People in between know you're using Tor. Slow. Use something like Tor Browser Bundle. Or Tails, depending on how secret you want to keep things.
+[Tor](https://www.torproject.org/) is sort of like a VPN, in that it reroutes your internet traffic before it gets to the server you're trying to access. Unlike a VPN, Tor can assist in keeping your traffic from being tied to your identity. It does this by routing your traffic through several "nodes" -- that form a sort of overlay network over the internet -- between you and your destination.
+
+Being truly anonymous and avoinding tracking with Tor requires some pretty substantial changes to the way you use the web. There's no point in logging in to your normal Google account with Tor, if that's who you're trying to hide from. JavaScript trackers can still track you. Additionally, there have been several successful direct attacks against the Tor network. This shouldn't be a problem if you keep your usage to what's required -- but be careful if you're relying on Tor for your day-to-day internet needs.
+
+Tor makes browsing SLOW. Like, many seconds to load a simple page. This is because it's bouncing your traffic all around the world. Just something to be aware of.
+
+Use something like [Tor Browser](https://www.torproject.org/projects/torbrowser.html.en) -- or [Tails], depending on the threat model you've developed.
 
 ## Bad tools that for some reason are popular
 Telegram. [Here's a list of reasons why](http://www.theregister.co.uk/2015/11/23/homebrew_crypto_in_telegram_app/)
