@@ -79,16 +79,16 @@ Furthermore, many VPN services are essentially scams. It's very easy to promise 
 Overall, VPNs are not worth the trouble for general usage. If you're sure you need one, use one set up by some trusted party, such as your school, or work, or a friend, or yourself.
 
 ### Tor
-[Tor](https://www.torproject.org/) is sort of like a VPN, in that it reroutes your internet traffic before it gets to the server you're trying to access. Unlike a VPN, Tor can assist in keeping your traffic from being tied to your identity. It does this by routing your traffic through several "nodes" -- that form a sort of overlay network over the internet -- between you and your destination.
+[Tor](https://www.torproject.org/) is sort of like a VPN, in that it reroutes your internet traffic before it gets to the server you're trying to access. Unlike a VPN, Tor can assist in hiding your identity from anyone in between you and the server you're connecting to. It does this by encrypting your traffic and routing it through several intermediary "nodes" -- forming a sort of scrambling overlay network on top of the internet -- between you and your destination.
 
-Being truly anonymous and avoinding tracking with Tor requires some pretty substantial changes to the way you use the web (which is  why I did not cover it in the presentation). There's no point in logging in to your normal Google account with Tor, if that's who you're trying to hide from. JavaScript trackers can still track you. Additionally, there have been several successful direct attacks against the Tor network. This shouldn't be a problem if you keep your usage to what's required -- but be careful if you're relying on Tor for your day-to-day internet needs.
+Being truly anonymous and avoinding tracking with Tor requires some pretty substantial changes to the way you use the web (which is why I did not cover it in the presentation). There's no point in logging in to your normal Google account with Tor, if you're trying to hide from Google. JavaScript trackers from Facebook, Google, and every ad network can still track you. Everyone can see that you're using Tor, and may pay more attention to you, or just flat-out block your traffic. Additionally, there have been several successful direct deanonymizing attacks against the Tor network. This shouldn't be a problem if you keep your usage to whatever your necessary minimum is -- but be careful if you're relying on Tor for your day-to-day internet needs.
 
 [Here](https://www.eff.org/pages/tor-and-https) is a useful interactive graphic from the EFF explaining which pieces of identifying information Tor and HTTPS hide from the various people in between you and the server you're trying to access. Click on the buttons to see what turning Tor and/or HTTPS do to your traffic.
 
 Tor makes browsing SLOW. Like, many seconds to load a simple page. This is because it's bouncing your traffic all around the world. Just something to be aware of.
 
-Use something like [Tor Browser](https://www.torproject.org/projects/torbrowser.html.en) -- or [Tails](https://tails.boum.org/), depending on the threat model you've developed.
+Use something like [Tor Browser](https://www.torproject.org/projects/torbrowser.html.en) to help cover your tracks when using Tor -- or [Tails](https://tails.boum.org/) for even better anonymity and security, depending on the threat model you've developed.
 
 ## Bad tools that for some reason are popular
-Telegram. [Here's a list of reasons why](http://www.theregister.co.uk/2015/11/23/homebrew_crypto_in_telegram_app/)
+Telegram is bad. Don't use it. Just use Signal. [Here's a list of reasons why](http://www.theregister.co.uk/2015/11/23/homebrew_crypto_in_telegram_app/)
 
