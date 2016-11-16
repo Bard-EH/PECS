@@ -56,13 +56,15 @@ Feel free to make any edits or changes! Just [fork](https://help.github.com/arti
 ## Good tools intentionally not covered, and why
 ### PGP and GPG
 PGP (for "Pretty Good Privacy") is a system for public-key cryptography. The most commonly-used implementation of PGP is the free and open-source [GPG](https://www.gnupg.org/) (for "GNU Privacy Guard", do you see what they did there?). 
-Public-key crypto, also known as asymetric-key cryptography, allows sending email and other communication with a very high level of privacy, as well as authentication -- that is, if you publish a public key, people can send you messages securely, and they can make sure any messages they receive from you actually came from you.
+Public-key cryptography, also known as asymetric-key cryptography, allows sending email and other communication with a very high level of privacy, as well as authentication -- that is, if use this system correctly, people can send you messages securely, and they can make sure any messages they receive from you actually came from you.
 
-Unfortunately, GPG is not at all easy to use and manage. GPG is not so much the swiss-army knife of public-key cryptography as it is the chainsaw. It's big, it's ugly, it's confusing and complicated, and it can really ruin your day if you use it wrong. A good overview of the problems with PGP from the main developer of Signal is [here](https://moxie.org/blog/gpg-and-me/).
+Unfortunately, GPG is not at all easy for most people to use and manage. GPG is not so much the swiss-army knife of public-key cryptography as it is the chainsaw. It's big, it's ugly, it's confusing and complicated, and it can really ruin your day if you use it wrong. A good overview of the usability problems with GPG from the one of the developers of Signal is [here](https://moxie.org/blog/gpg-and-me/).
 
 This is not to discourage its use in the right situations -- I (Ryan) use it every day to secure my passwords and authorize code commits. If you think you need this level of security, you **need** to really read up and learn this tool in depth before you even think about relying on it for sensitive information. If you're sure you want to start down this road, the Riseup collective has published a [comprehensive guide](https://riseup.net/en/security/message-security/openpgp/best-practices) to GPG best practices.
 
 ### VPNs
+VPN stands for Virtual Private Network. A VPN essentially encrypts and reroutes all (or, possibly, a subset) of your traffic through a particular server that you connect to. Think of it as a wormhole for your internets. When configured correctly, someone snooping on the traffic on your local network would see a lot of encrypted traffic to one particular server, and nothing else.
+
 There's a lot of well-meant but bad advice floating about recommending VPNs as a surefire way to circumvent surveillance and secure your internet. On the modern Internet, where companies and intelligence organizations have eyes everywhere, VPNs have very limited and specific uses. For most people, they're only really useful for these scenarios: 
 
 1. to punch through restrictive firewalls or filters, such as China's Great Firewall
@@ -70,11 +72,11 @@ There's a lot of well-meant but bad advice floating about recommending VPNs as a
 3. to access secure resources on a private network remotely. (Some schools use this method to enable off-campus access to library resources, for example.)
 
 A VPN on its own will not prevent Facebook from tracking you. A VPN on its own will not prevent the NSA from reading your emails.
-A VPN on its own will not prevent the MPAA from catching your torrenting.
+A VPN on its own will not prevent the MPAA from catching your torrenting. It may, in fact, make these things easier. It's really easy to misconfigure your VPN in such a way that leaks information to snoops; for example, if you don't tunnel your DNS requests, someone can see what servers you're trying to connect to, even if they can't see the traffic in between you and that server.
 
-Furthermore, many VPN services are essentially scams. It's very easy to promise increased security, especially given the stature of VPNs in the public mind -- but it's basically impossible to validate without auditing. (Just because they **say** they don't keep logs, doesn't mean they **don't** keep logs.)
+Furthermore, many VPN services are essentially scams. It's very easy to promise increased security, especially given the stature of VPNs in the public mind -- but it's basically impossible to validate without auditing. (Just because they **say** they don't track you...)
 
-Overall, VPNs are not worth the trouble. If you're sure you want one, set one up on a remote server yourself. If you can't do that...maybe don't use a VPN.
+Overall, VPNs are not worth the trouble. If you're sure you want one, use one set up by some trusted party, such as your school, or work, or a friend, or yourself.
 
 ### Tor
 [Tor](https://www.torproject.org/) is sort of like a VPN, in that it reroutes your internet traffic before it gets to the server you're trying to access. Unlike a VPN, Tor can assist in keeping your traffic from being tied to your identity. It does this by routing your traffic through several "nodes" -- that form a sort of overlay network over the internet -- between you and your destination.
