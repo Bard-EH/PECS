@@ -83,7 +83,7 @@ Being truly anonymous and avoinding tracking with Tor requires some pretty subst
 
 Tor makes browsing SLOW. Like, many seconds to load a simple page. This is because it's bouncing your traffic all around the world. Just something to be aware of.
 
-Use something like [Tor Browser](https://www.torproject.org/projects/torbrowser.html.en) -- or [Tails], depending on the threat model you've developed.
+Use something like [Tor Browser](https://www.torproject.org/projects/torbrowser.html.en) -- or [Tails](https://tails.boum.org/), depending on the threat model you've developed.
 
 ## Bad tools that for some reason are popular
 Telegram. [Here's a list of reasons why](http://www.theregister.co.uk/2015/11/23/homebrew_crypto_in_telegram_app/)
