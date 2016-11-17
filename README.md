@@ -37,14 +37,14 @@ Feel free to make any edits or changes! Just [fork](https://help.github.com/arti
   * **[Change Google advertising preferences](https://www.google.com/settings/ads)**
     * **Make sure you check out the "anonymous" advertisement settings also!!!111one**
   * [Google Search settings](https://www.google.com/preferences)
-  
-  
+
+
 
 ## Tools recommended
 ### Browser extensions
 | Name | Link to Firefox Extension | Link to Chrome Extension |
 |---|---|---|
-|[Privacy Badger](https://www.eff.org/privacybadger) | [Firefox Install](https://addons.mozilla.org/firefox/downloads/latest/privacy-badger-firefox/addon-506646-latest.xpi?src=dp-btn-primary)|[Chrome Web Store](https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp?hl=en-US) |
+|[Privacy Badger](https://www.eff.org/privacybadger) | [Firefox Install](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/)|[Chrome Web Store](https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp?hl=en-US) |
 |[uBlock Origin](https://github.com/gorhill/uBlock) | [Firefox Install](https://addons.mozilla.org/firefox/downloads/latest/ublock-origin/addon-607454-latest.xpi?src=dp-btn-primary) | [Chrome Web Store](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) |
 |[HTTPS Everywhere](https://www.eff.org/https-everywhere) | [Firefox Install](https://addons.mozilla.org/firefox/downloads/latest/https-everywhere/addon-229918-latest.xpi?src=ss) | [Chrome Web Store](https://chrome.google.com/webstore/detail/gcbommkclmclpchllfjekcdonpmejbdp) |
 
