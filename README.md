@@ -6,7 +6,9 @@ Notes and resources from the Practical Everyday Counter-surveillance workshop.
 Feel free to make any edits or changes! Just [fork](https://help.github.com/articles/fork-a-repo/) this repository, make your changes, then [send a pull request](https://help.github.com/articles/about-pull-requests/).
 
 ## Resources in this repository
-* Presentation: [PDF](#) or [ODP](#) 
+* Presentation:
+  [PDF](https://github.com/Bard-EH/PECS/raw/master/practical-everyday-countersurveillance.pdf) or
+  [ODP](https://github.com/Bard-EH/PECS/raw/master/practical-everyday-countersurveillance.odp) 
 * [Livestream](https://www.youtube.com/watch?v=5_ayTCZnYjs)
 
 ## Articles & Essays mentioned or quoted
