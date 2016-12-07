@@ -21,6 +21,8 @@ Feel free to make any edits or changes! Just [fork](https://help.github.com/arti
 * [A story about how Tor doesn't protect you from being stupid](http://www.dailydot.com/crime/tor-harvard-bomb-suspect/)
 * ["Multi-factor authentication for busy people"](https://phiffer.org/writing/multi-factor-authentication-for-busy-people/)
 * ["Passing the Baton"](https://www.jacobinmag.com/2016/11/donald-trump-barack-obama-surveillance-national-security-drones-foreign-policy/) -- Branko Marcetic (such a cool name) gives a left-wing perspective on the history, development, and powers of the surveillance/national security state
+* [Operational PGP](https://github.com/nask0/Operational-PGP) -- One way to use PGP that avoids some of the pitfalls of the "default" mode.
+* [Keybase.io](https://keybase.io) -- a PGP trust service alternative to the Web Of Trust. If you have a @bard.edu address, I have invites
 
 ## Cleaning Up After Yourself
 * [Facebook Linked Apps](https://www.facebook.com/settings?tab=applications)
