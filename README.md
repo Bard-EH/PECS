@@ -24,6 +24,7 @@ Feel free to make any edits or changes! Just [fork](https://help.github.com/arti
 * [Operational PGP](https://github.com/nask0/Operational-PGP) -- One way to use PGP that avoids some of the pitfalls of the "default" mode.
 * [Keybase.io](https://keybase.io) -- a PGP trust service alternative to the Web Of Trust. If you have a @bard.edu address, I have invites
 * [Data detox kit](https://myshadow.org/ckeditor_assets/attachments/189/datadetoxkit_optimized_01.pdf) -- possibly useful for the next section?
+* [Feminist cybersecurity guide](https://hackblossom.org/cybersecurity/)
 
 ## Cleaning Up After Yourself
 * [Facebook Linked Apps](https://www.facebook.com/settings?tab=applications)
